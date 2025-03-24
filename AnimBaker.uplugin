@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AnimBaker",
+	"Description": "Bakes Seqeuencer select ControlRig sections in Sequencer into seperate AnimSequence assets",
+	"Category": "Other",
+	"CreatedBy": "Timofej Jermolaev",
+	"CreatedByURL": "https://github.com/timofeji",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AnimBaker",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

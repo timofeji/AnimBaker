@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\actions-runner\\_work\\eonblade\\eonblade\\hb-game\\plugins\\animbaker\\source\\animbaker\\animbakercommands.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\actions-runner\\_work\\eonblade\\eonblade\\hb-engine\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\actions-runner\\_work\\eonblade\\eonblade\\hb-game\\plugins\\animbaker\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\animbaker\\definitions.animbaker.h",
+            "c:\\actions-runner\\_work\\eonblade\\eonblade\\hb-game\\plugins\\animbaker\\source\\animbaker\\animbakercommands.h",
+            "c:\\actions-runner\\_work\\eonblade\\eonblade\\hb-game\\plugins\\animbaker\\source\\animbaker\\animbakerstyle.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
